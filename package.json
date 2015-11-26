@@ -1,7 +1,7 @@
 {
-  "name": "app",
+  "name": "Todo",
   "version": "1.0.0",
-  "description": "App description",
+  "description": "TODO app with hierarchical tasks support",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
