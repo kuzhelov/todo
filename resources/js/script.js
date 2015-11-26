@@ -1,3 +1,5 @@
+/*global angular, console*/
+
 function isEmptyString(str) {
     return !str || str.length === 0;
 }
